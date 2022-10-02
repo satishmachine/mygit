@@ -3,3 +3,4 @@
 # the hhjj
 # thhhh
 # That how you learn
+import numpy as np
